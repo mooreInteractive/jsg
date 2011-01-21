@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background: #666666; text-align: center; padding: 0; margin: 0;}
+
+/*** Initial Game Objects ***/
+
+#playField{width: 50%; margin: 0 auto; background: #101010; height: 100%; border-style: solid; border-color: #ffffff; border-width: 0 8px;}
+
+#ship{position: absolute; width: 32px;}
+
+/*** HUD/Feedback ***/
+#op{position: absolute; left: 10px; top: 5px; color: #ffffff; font-family: Arial, Helvetica, sans-serif;}
+#guide{position: absolute; width: 250px; padding: 15px; left: 5px; top: 60%; color: #ffffff; font-family: Arial, Helvetica, sans-serif; background: #333333; -moz-border-radius: 9px; border-radius: 9px; -webkit-border-radius: 9px;}
+#ammo{position: absolute; top: 80%; left: 80%; background: #66cc66; padding: 8px 15px; color: #333333; -moz-border-radius: 9px; border-radius: 9px; -webkit-border-radius: 9px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+.red{color: #FF0000;}
+#score{position: absolute; top: 10%; left: 80%; background: #6666ff; padding: 8px 15px; color: #333333; -moz-border-radius: 9px; border-radius: 9px; -webkit-border-radius: 9px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+#topTen{position: absolute; top: 10%; left: 5px; background: #999999; padding: 8px 15px; color: #333333; -moz-border-radius: 9px; border-radius: 9px; -webkit-border-radius: 9px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; width: 250px;}
+#topTen table{width: 250px;}
+#topTen table td{text-align: center;}
+
+/*** Spawned Game Objects ***/
+.bullet{position: absolute; width: 4px; height: 6px; background: #FFFFFF;}
+.rock{position: absolute;}
+
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scores>
+	<score place="1">
+		<name>This</name>
+		<points>234</points>
+	</score>
+	<score place="2">
+		<name>Isnt</name>
+		<points>233</points>
+	</score>
+	<score place="3">
+		<name>Working</name>
+		<points>232</points>
+	</score>
+	<score place="4">
+		<name>Yet</name>
+		<points>231</points>
+	</score>
+	<score place="5">
+		<name>Sorry</name>
+		<points>2</points>
+	</score>
+	<score place="6">
+		<name></name>
+		<points></points>
+	</score>
+	<score place="7">
+		<name></name>
+		<points></points>
+	</score>
+	<score place="8">
+		<name></name>
+		<points></points>
+	</score>
+	<score place="9">
+		<name></name>
+		<points></points>
+	</score>
+	<score place="10">
+		<name></name>
+		<points></points>
+	</score>
+</scores>
